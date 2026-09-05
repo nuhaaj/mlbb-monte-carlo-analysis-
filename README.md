@@ -1,17 +1,17 @@
-A Monte Carlo simulation project analysing how randomness affects match outcomes and win rates in Mobile Legends: Bang Bang (MLBB).
+a Monte Carlo simulation project analysing how randomness affects match outcomes and win rates in Mobile Legends: Bang Bang (MLBB).
 
-The purpose of this project is to simulate repeated match outcomes and examine how observed performance can vary even when the underlying probability of winning remains constant.
+the purpose of this project is to simulate repeated match outcomes and examine how observed performance can vary even when the underlying probability of winning remains constant.
 
-Methods: 
+methods: 
 
 - Monte Carlo simulation
-- Probability modelling
-- Win/loss streak analysis
-- Distribution analysis
-- Data visualisation
+- probability modelling
+- win/loss streak analysis
+- distribution analysis
+- data visualisation
 
-Questions:
+questions:
 
-- How much can observed win rate fluctuate due to randomness?
-- How frequently do long winning or losing streaks occur?
-- How does performance vary across thousands of simulated seasons?
+- how much can observed win rate fluctuate due to randomness?
+- how frequently do long winning or losing streaks occur?
+- how does performance vary across thousands of simulated seasons?
